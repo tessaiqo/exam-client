@@ -5,8 +5,8 @@
 и оркеструются через docker-compose. В качестве источника данных используется
 [Open Library API](https://openlibrary.org/developers/api).
 
-![Скриншот приложения](.docs/imgs/app-screenshot.jpg)
-![Скриншот приложения](.docs/imgs/app-screenshot2.jpg)
+![Скриншот приложения](./imgs/app-screenshot.jpg)
+![Скриншот приложения](imgs/app-screenshot2.jpg)
 
 
 ## ⚙️ Стек

@@ -5,8 +5,8 @@
 и оркеструются через docker-compose. В качестве источника данных используется
 [Open Library API](https://openlibrary.org/developers/api).
 
-![Скриншот приложения](./imgs/app-screenshot.jpg)
-![Скриншот приложения](imgs/app-screenshot2.jpg)
+![Скриншот приложения](docs/img/app-screenshot.jpg)
+![Скриншот приложения](docs/img/app-screenshot2.jpg)
 
 
 ## ⚙️ Стек
@@ -68,8 +68,8 @@ Vue-фронт и проксирует запросы `/api/...` на бэкен
 ```bash
 docker compose down
 ```
-![Скриншот приложения](docs/imgs/dockercompose1.jpg)
-![Скриншот приложения](docs/imgs/dockerDesktop.jpg)
+![Скриншот приложения](docs/img/dockercompose1.jpg)
+![Скриншот приложения](docs/img/dockerDesktop.jpg)
 
 ### Вариант 2. Локально (для разработки)
 
